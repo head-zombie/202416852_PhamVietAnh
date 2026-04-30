@@ -2,6 +2,6 @@
 
 int main() {
     printf("This is Minimax Algorithm implementation!");
-    printf("This will conflict!");
+    printf("Update Minimax Algorithm!");
     return 0;
 }
